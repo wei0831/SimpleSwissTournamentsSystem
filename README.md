@@ -47,8 +47,3 @@ http://stackoverflow.com/questions/15408969/how-do-i-destroy-a-vm-when-i-deleted
 
 How to drop a PostgreSQL database if there are active connections to it?
 http://stackoverflow.com/questions/5408156/how-to-drop-a-postgresql-database-if-there-are-active-connections-to-it
-
-## Author
-**[Jack Chang]**
-
-[Jack Chang]: https://wei0831.net
